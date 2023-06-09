@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_30</name>
+   <tag></tag>
+   <elementGuidId>cf76c565-1df6-459d-b16b-bcd0dd5f333f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popper-7061']/div/div/div/div[2]/table/tbody/tr[6]/td[3]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '30' or . = '30')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.available.today > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>768f215f-73ad-40ef-b5e1-a8f58fc445f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>05d0dac8-1ab1-462a-abf2-eab124eb72f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-popper-7061&quot;)/div[@class=&quot;el-picker-panel el-date-picker&quot;]/div[@class=&quot;el-picker-panel__body-wrapper&quot;]/div[@class=&quot;el-picker-panel__body&quot;]/div[@class=&quot;el-picker-panel__content&quot;]/table[@class=&quot;el-date-table&quot;]/tbody[1]/tr[@class=&quot;el-date-table__row&quot;]/td[@class=&quot;available today&quot;]/div[1]</value>
+      <webElementGuid>7d39bfb2-1031-47a6-b16e-59135a6b2218</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popper-7061']/div/div/div/div[2]/table/tbody/tr[6]/td[3]/div</value>
+      <webElementGuid>c40363bd-1271-419c-bc54-3a7162df662c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::div[31]</value>
+      <webElementGuid>a8f61368-b780-4690-ab83-a79768668834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::div[31]</value>
+      <webElementGuid>76410391-7d5e-4a68-a8f3-c25690670ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[6]/td[3]/div</value>
+      <webElementGuid>e6c360d7-87c5-4c7c-88b2-8a372a76a4d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '30' or . = '30')]</value>
+      <webElementGuid>211e4019-2db3-4053-8875-3eac45e1943a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

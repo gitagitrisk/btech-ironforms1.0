@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Task</name>
+   <tag></tag>
+   <elementGuidId>69f586bf-d0a9-45b1-a25d-edd9e5ea10dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_header_menu']/div[4]/div/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c26d0014-0bba-46a4-9f93-bf8393f1f129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title sidebar-menu-item</value>
+      <webElementGuid>d177306c-4cad-4ee0-bbdf-af08f66b22b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Task</value>
+      <webElementGuid>6f3a861a-7e0e-4495-89d8-15033f07d7d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu_wrapper&quot;)/div[@id=&quot;#kt_header_menu&quot;]/div[@class=&quot;menu-item&quot;]/div[@class=&quot;menu-item menu-accordion&quot;]/span[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-title sidebar-menu-item&quot;]</value>
+      <webElementGuid>1a2d9543-8ded-4c9a-83a0-0aa462e946a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_header_menu']/div[4]/div/span/span[2]</value>
+      <webElementGuid>8e20fd3f-0a64-49cb-9737-a7cc7037fb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance Strategy'])[1]/following::span[3]</value>
+      <webElementGuid>173423e0-9f91-493f-a137-3f3e1bdfa752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance'])[1]/following::span[7]</value>
+      <webElementGuid>927f507d-2dbd-4aaf-a76e-99a1c827930d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Service'])[1]/preceding::span[4]</value>
+      <webElementGuid>f9b3357b-537e-4c95-b653-810fb66429ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameter'])[1]/preceding::span[6]</value>
+      <webElementGuid>4b993421-f0a7-4e04-9955-41d65e5c3c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Task']/parent::*</value>
+      <webElementGuid>3245e142-f0c1-4e27-a2bc-a4598ade9d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span/span[2]</value>
+      <webElementGuid>abc59355-c493-4da9-9b16-55c8a6a3f0f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Task' or . = 'Task')]</value>
+      <webElementGuid>0a86e89c-69ff-421c-a022-9460daf706b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

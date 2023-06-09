@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Outstanding Services</name>
+   <tag></tag>
+   <elementGuidId>1130f50e-7bdb-4e45-ac67-fa9f4cd4689a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-control.py-2.border-right-0.border.d-flex.align-items-center.position-relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[3]/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ed87092-dc5b-42da-b86e-b209e8ae6b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control py-2 border-right-0 border d-flex align-items-center position-relative</value>
+      <webElementGuid>f2601635-e7c4-4bad-a2bd-85076ba0d212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outstanding Services</value>
+      <webElementGuid>988ec18d-1735-42db-9098-89750242518f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container h-100 p-0&quot;]/div[@class=&quot;row mx-0&quot;]/div[3]/div[@class=&quot;el-overlay&quot;]/div[@class=&quot;el-dialog el-dialog--center&quot;]/div[@class=&quot;el-dialog__body&quot;]/div[@class=&quot;row select-search&quot;]/div[@class=&quot;input-group col-md-4&quot;]/div[@class=&quot;form-control py-2 border-right-0 border d-flex align-items-center position-relative&quot;]</value>
+      <webElementGuid>a25788d5-ec9e-4b2a-9234-c3aa2b6442f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>49a5ece4-7d8a-44da-9b6c-4ff96cc1047e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commence Digital Service'])[1]/following::div[4]</value>
+      <webElementGuid>9357dad4-0040-40ac-8db4-37d740a6eb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Guide'])[1]/following::div[7]</value>
+      <webElementGuid>43dfbce1-d0d7-4857-b671-4ad8e5f96e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>14e0403b-3228-41bf-8b29-2b44d0bef0c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Outstanding Services' or . = 'Outstanding Services')]</value>
+      <webElementGuid>83c2df99-4dc0-4c4a-ad93-8a1597b5e664</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

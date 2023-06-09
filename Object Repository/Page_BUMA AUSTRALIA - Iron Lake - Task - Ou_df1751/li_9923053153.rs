@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_9923053153</name>
+   <tag></tag>
+   <elementGuidId>a675ad5e-732e-4872-ba52-004f07e30f12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popper-9837']/div/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '9923053153' or . = '9923053153')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.el-select-dropdown__item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a2f55119-8425-43a7-b3b0-e0f52d8f3cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select-dropdown__item</value>
+      <webElementGuid>eac68a28-ce8e-48bc-8a38-690f67474988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9923053153</value>
+      <webElementGuid>97df0c85-592b-4cde-ae9d-2bf272430bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-popper-9837&quot;)/div[@class=&quot;el-select-dropdown&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item&quot;]</value>
+      <webElementGuid>b8769623-7b46-4d24-ad9e-3554655b4ac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popper-9837']/div/div/div/ul/li</value>
+      <webElementGuid>add9781e-c720-4017-a0ba-7242ab677ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[1]/preceding::li[2]</value>
+      <webElementGuid>792ee4e0-8ff8-41cf-bc4d-1fa4609e1f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::li[2]</value>
+      <webElementGuid>a2e67dfd-77c3-4c07-b0f2-3919e6faadd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/ul/li</value>
+      <webElementGuid>0e9ee3da-0a81-43a3-88c4-fca0211dea24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '9923053153' or . = '9923053153')]</value>
+      <webElementGuid>b5fa0fc7-8a77-4ebb-a4a1-a5d04835ce69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

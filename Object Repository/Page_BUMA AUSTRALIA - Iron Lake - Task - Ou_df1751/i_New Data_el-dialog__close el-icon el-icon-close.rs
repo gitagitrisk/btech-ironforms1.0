@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_New Data_el-dialog__close el-icon el-icon-close</name>
+   <tag></tag>
+   <elementGuidId>9c5390b8-5334-4ceb-80e9-b75d43b86954</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[4]/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.el-dialog__close.el-icon.el-icon-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f153f5eb-1763-476a-9d40-2f1599269777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-dialog__close el-icon el-icon-close</value>
+      <webElementGuid>6a515bca-db41-4141-a19f-bda5a185bf38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;el-overlay&quot;]/div[@class=&quot;el-dialog&quot;]/div[@class=&quot;el-dialog__header&quot;]/button[@class=&quot;el-dialog__headerbtn&quot;]/i[@class=&quot;el-dialog__close el-icon el-icon-close&quot;]</value>
+      <webElementGuid>4bee97b2-723b-4a1e-bf2b-c583209fd226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[4]/div/div/button/i</value>
+      <webElementGuid>6c94a6f1-480c-4449-be1b-2c1b815ca5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button/i</value>
+      <webElementGuid>00464e2f-1eb1-4613-b960-a2535a33a040</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

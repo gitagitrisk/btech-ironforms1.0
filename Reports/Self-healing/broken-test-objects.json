@@ -1,0 +1,32 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/li_DT0053  777D Dump Truck CAT",
+      "brokenLocator": "//*[(text() \u003d \u0027DT0053 | 777D Dump Truck CAT\u0027 or . \u003d \u0027DT0053 | 777D Dump Truck CAT\u0027)]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "li.el-select-dropdown__item",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/li_DT0053  777D Dump Truck CAT_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Iron Form/Page_BUMA AUSTRALIA - IronForms/General/input_Work Order_form-control",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(//input[@type\u003d\u0027text\u0027])[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/New Iron Form/Page_BUMA AUSTRALIA - IronForms/General/input_Work Order_form-control_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Iron Form/Page_BUMA AUSTRALIA - IronForms/General/li_Tom Woodward",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Labour Personnel Name\u0027])[1]/following::li[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}

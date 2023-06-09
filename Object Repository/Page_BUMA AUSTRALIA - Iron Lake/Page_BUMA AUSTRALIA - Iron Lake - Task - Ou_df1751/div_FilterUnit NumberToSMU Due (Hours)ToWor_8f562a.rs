@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FilterUnit NumberToSMU Due (Hours)ToWor_8f562a</name>
+   <tag></tag>
+   <elementGuidId>b2209363-ddbb-4ab8-ab9e-43787885b5e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b2317f3-4fb8-4e91-a8e5-e7e75dce2e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-overlay</value>
+      <webElementGuid>1c1b49dc-9890-4973-a2d4-c8820339b549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FilterUnit NumberToSMU Due (Hours)ToWork OrderToService SizeToShiftToStart DateToEnd DateToResetFilter</value>
+      <webElementGuid>237abdc2-67ad-449a-b076-ee6282944d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;el-overlay&quot;]</value>
+      <webElementGuid>d9cb0af8-f4b4-423b-b37c-ea2a6690f2e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[5]</value>
+      <webElementGuid>14bb9023-e212-4bc1-84a0-06428b8acc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div[5]</value>
+      <webElementGuid>4ae674d7-ca70-43b8-a75d-72576254a0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FilterUnit NumberToSMU Due (Hours)ToWork OrderToService SizeToShiftToStart DateToEnd DateToResetFilter' or . = 'FilterUnit NumberToSMU Due (Hours)ToWork OrderToService SizeToShiftToStart DateToEnd DateToResetFilter')]</value>
+      <webElementGuid>93c65d88-8a76-4d0e-99da-28e3e2b95865</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

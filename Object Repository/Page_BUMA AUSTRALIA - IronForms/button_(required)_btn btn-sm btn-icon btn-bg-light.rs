@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_(required)_btn btn-sm btn-icon btn-bg-light</name>
+   <tag></tag>
+   <elementGuidId>dd43b221-be2e-4cbc-91c5-fa6bfe1fb841</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div[10]/div/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-icon.btn-bg-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a4a3bdca-e081-4af4-ae67-cef4c7d8a8ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-icon btn-bg-light</value>
+      <webElementGuid>220c08f2-2f69-44ff-b0df-01412dd92622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;row m-0 mt-25 p-5 bg-white e-form-container&quot;]/div[@class=&quot;mt-5 px-0&quot;]/div[@class=&quot;row vcp mx-0 py-4 d-flex justify-content-between me-3 risk-assessment-title&quot;]/div[@class=&quot;col-2 col-md-1&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;px-0 col-6&quot;]/button[@class=&quot;btn btn-sm btn-icon btn-bg-light&quot;]</value>
+      <webElementGuid>0782fd15-83e1-4035-a645-d28c45a7661a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div[10]/div/div[2]/div/div/button</value>
+      <webElementGuid>22674978-084c-4bc5-a09b-ce6b8940655d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(required)'])[1]/following::button[1]</value>
+      <webElementGuid>5ac0fef3-576c-4bfc-8a0b-2027807375bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRUCK DUMP BODY / MODULE IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)'])[1]/preceding::button[2]</value>
+      <webElementGuid>4e812319-7dce-4b6c-8816-0bcd5aa6d851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>1b6ea582-59f6-420c-abba-fda227b6805a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

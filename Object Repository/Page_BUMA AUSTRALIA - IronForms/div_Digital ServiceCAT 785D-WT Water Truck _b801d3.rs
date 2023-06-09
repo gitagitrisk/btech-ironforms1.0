@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Digital ServiceCAT 785D-WT Water Truck _b801d3</name>
+   <tag></tag>
+   <elementGuidId>0c4db05a-21d3-431c-a22e-527861e8e6ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.m-0.mt-25.p-5.bg-white.e-form-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da58c858-a980-4de6-a020-f2336cbf22f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row m-0 mt-25 p-5 bg-white e-form-container</value>
+      <webElementGuid>30ae4034-8c8c-431d-8dc3-b1d1c1b34965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Digital ServiceCAT 785D-WT Water Truck 2000 Hr Service (Ver. 1.0.0)GeneralPre-Service Operational ChecksLube ServiceMechanical ServiceChassis Crack InspectionElectrical ServiceFire PreventionIdentified DefectsService Duration Timer - 00:01:00FinishService Labour PersonnelLabour Personnel NameJamie BradyTom WoodwardActual Service Start (each labour personnel)ShiftEquipment InformationUnit NumberWork OrderEngine Hour Meter ReadingActual Service StartActual Service FinishService FormSafety PrecautionsEnsure Personal Pre-Task Risk Assessment (Take 5/HAZID) is completed prior to the service. Ensure correct PPE is used at all times.Do not perform maintenance on any equipment supported by lift jacks. Always use certified jack stands or secured blocks to support the equipment before maintenance works are carried out.Always follow the isolation procedure (BA-SE-P38) and attach your &quot;Personal Lock / Tag&quot; and lock out the controls while equipment is being serviced or repaired. Use appropriate PPE for tasks performed.Ensure machine is parked on a level surface. Ensure deck, walkways and steps are free from foreign material such as oil and debris.Ensure all safety information, warnings, and work instructions are read and understood before any operation or any maintenance procedures are performed. Relieve all pressure in air system, in the hydraulic system, in the lubrication system, in the fuel system or in the cooling systems before any lines, fittings or related items are disconnected. Caution should be exercised when relieving pressure by removing caps from all hydraulic, fuel and radiator tanks as pressure may cause a spray of hot fluid.Avoid burns and be alert for hot parts on equipment. Allow engine to cool before any maintenance is performed on the engine.Always refer to WORKSHOP SERVICE MANUAL procedures for work instruction and safety warnings before performing maintenance and repairs.Be aware of component weights, use correct lifting equipment and avoid back injury.Ensure oil is evacuated into the waste oil tank and filters are correctly disposed in the appropriate waste bin.Preview I have read and understood all safety precautions listed above Take photo of completed Pre-Task Risk Assessment Form (required).+1WASH AND CHECKS BEFORE MACHINE ENTERS THE WORKSHOP:TRUCK DUMP BODY / MODULE IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)Adam Cook, 30/05/23 10:25:45 (AEST)WASH TRUCKAdam Cook, 30/05/23 10:25:46 (AEST)WASH RADIATORAdam Cook, 30/05/23 10:25:47 (AEST)WASH BATTERY BOXAdam Cook, 30/05/23 10:25:48 (AEST)CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOPAdam Cook, 30/05/23 10:25:50 (AEST) Service Duration Timer - 00:01:00Submit</value>
+      <webElementGuid>384ad1a3-9cbe-4414-a203-a62894ec7c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;row m-0 mt-25 p-5 bg-white e-form-container&quot;]</value>
+      <webElementGuid>72c6d1e1-0ff6-4384-a1e8-ce9366b0ca89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]</value>
+      <webElementGuid>4f9a388a-8452-4e11-9917-116c1aee08a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historical Digital Service Forms'])[1]/following::div[4]</value>
+      <webElementGuid>59999857-924f-477c-8a77-074016bcfdd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historical Defect'])[1]/following::div[15]</value>
+      <webElementGuid>33ad1772-9737-4d9b-beb9-5b95df1814a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>c22c6b72-6ab1-4c0f-a0c6-27e593965bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Digital ServiceCAT 785D-WT Water Truck 2000 Hr Service (Ver. 1.0.0)GeneralPre-Service Operational ChecksLube ServiceMechanical ServiceChassis Crack InspectionElectrical ServiceFire PreventionIdentified DefectsService Duration Timer - 00:01:00FinishService Labour PersonnelLabour Personnel NameJamie BradyTom WoodwardActual Service Start (each labour personnel)ShiftEquipment InformationUnit NumberWork OrderEngine Hour Meter ReadingActual Service StartActual Service FinishService FormSafety PrecautionsEnsure Personal Pre-Task Risk Assessment (Take 5/HAZID) is completed prior to the service. Ensure correct PPE is used at all times.Do not perform maintenance on any equipment supported by lift jacks. Always use certified jack stands or secured blocks to support the equipment before maintenance works are carried out.Always follow the isolation procedure (BA-SE-P38) and attach your &quot;Personal Lock / Tag&quot; and lock out the controls while equipment is being serviced or repaired. Use appropriate PPE for tasks performed.Ensure machine is parked on a level surface. Ensure deck, walkways and steps are free from foreign material such as oil and debris.Ensure all safety information, warnings, and work instructions are read and understood before any operation or any maintenance procedures are performed. Relieve all pressure in air system, in the hydraulic system, in the lubrication system, in the fuel system or in the cooling systems before any lines, fittings or related items are disconnected. Caution should be exercised when relieving pressure by removing caps from all hydraulic, fuel and radiator tanks as pressure may cause a spray of hot fluid.Avoid burns and be alert for hot parts on equipment. Allow engine to cool before any maintenance is performed on the engine.Always refer to WORKSHOP SERVICE MANUAL procedures for work instruction and safety warnings before performing maintenance and repairs.Be aware of component weights, use correct lifting equipment and avoid back injury.Ensure oil is evacuated into the waste oil tank and filters are correctly disposed in the appropriate waste bin.Preview I have read and understood all safety precautions listed above Take photo of completed Pre-Task Risk Assessment Form (required).+1WASH AND CHECKS BEFORE MACHINE ENTERS THE WORKSHOP:TRUCK DUMP BODY / MODULE IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)Adam Cook, 30/05/23 10:25:45 (AEST)WASH TRUCKAdam Cook, 30/05/23 10:25:46 (AEST)WASH RADIATORAdam Cook, 30/05/23 10:25:47 (AEST)WASH BATTERY BOXAdam Cook, 30/05/23 10:25:48 (AEST)CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOPAdam Cook, 30/05/23 10:25:50 (AEST) Service Duration Timer - 00:01:00Submit' or . = 'Digital ServiceCAT 785D-WT Water Truck 2000 Hr Service (Ver. 1.0.0)GeneralPre-Service Operational ChecksLube ServiceMechanical ServiceChassis Crack InspectionElectrical ServiceFire PreventionIdentified DefectsService Duration Timer - 00:01:00FinishService Labour PersonnelLabour Personnel NameJamie BradyTom WoodwardActual Service Start (each labour personnel)ShiftEquipment InformationUnit NumberWork OrderEngine Hour Meter ReadingActual Service StartActual Service FinishService FormSafety PrecautionsEnsure Personal Pre-Task Risk Assessment (Take 5/HAZID) is completed prior to the service. Ensure correct PPE is used at all times.Do not perform maintenance on any equipment supported by lift jacks. Always use certified jack stands or secured blocks to support the equipment before maintenance works are carried out.Always follow the isolation procedure (BA-SE-P38) and attach your &quot;Personal Lock / Tag&quot; and lock out the controls while equipment is being serviced or repaired. Use appropriate PPE for tasks performed.Ensure machine is parked on a level surface. Ensure deck, walkways and steps are free from foreign material such as oil and debris.Ensure all safety information, warnings, and work instructions are read and understood before any operation or any maintenance procedures are performed. Relieve all pressure in air system, in the hydraulic system, in the lubrication system, in the fuel system or in the cooling systems before any lines, fittings or related items are disconnected. Caution should be exercised when relieving pressure by removing caps from all hydraulic, fuel and radiator tanks as pressure may cause a spray of hot fluid.Avoid burns and be alert for hot parts on equipment. Allow engine to cool before any maintenance is performed on the engine.Always refer to WORKSHOP SERVICE MANUAL procedures for work instruction and safety warnings before performing maintenance and repairs.Be aware of component weights, use correct lifting equipment and avoid back injury.Ensure oil is evacuated into the waste oil tank and filters are correctly disposed in the appropriate waste bin.Preview I have read and understood all safety precautions listed above Take photo of completed Pre-Task Risk Assessment Form (required).+1WASH AND CHECKS BEFORE MACHINE ENTERS THE WORKSHOP:TRUCK DUMP BODY / MODULE IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)Adam Cook, 30/05/23 10:25:45 (AEST)WASH TRUCKAdam Cook, 30/05/23 10:25:46 (AEST)WASH RADIATORAdam Cook, 30/05/23 10:25:47 (AEST)WASH BATTERY BOXAdam Cook, 30/05/23 10:25:48 (AEST)CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOPAdam Cook, 30/05/23 10:25:50 (AEST) Service Duration Timer - 00:01:00Submit')]</value>
+      <webElementGuid>1e8f9d61-867e-4d2b-9c93-aa9ec4654166</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

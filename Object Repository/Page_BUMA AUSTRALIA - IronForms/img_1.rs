@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>c024d743-5232-4b0a-800a-3112182e27b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div[10]/div/div[2]/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-icon.btn-bg-light > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>68026782-cbf4-4a7d-8380-2bc71c02b463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/media/svg/dma/camera/e-form/png/cam-user.png</value>
+      <webElementGuid>1786bbec-8e4c-4419-80f8-b098f7c791f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;row m-0 mt-25 p-5 bg-white e-form-container&quot;]/div[@class=&quot;mt-5 px-0&quot;]/div[@class=&quot;row vcp mx-0 py-4 d-flex justify-content-between me-3 risk-assessment-title&quot;]/div[@class=&quot;col-2 col-md-1&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;px-0 col-6&quot;]/button[@class=&quot;btn btn-sm btn-icon btn-bg-light&quot;]/img[1]</value>
+      <webElementGuid>500310c1-4ea7-40c9-95d3-bc7b7aa6a5e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div[10]/div/div[2]/div/div/button/img</value>
+      <webElementGuid>5317e240-db0e-40e3-ad2c-98e86ac680e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/img</value>
+      <webElementGuid>db9cc61e-52b8-48e2-b67f-e61bfe224046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/media/svg/dma/camera/e-form/png/cam-user.png']</value>
+      <webElementGuid>cdde2de4-b475-467b-93e9-3e78d8fafd89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

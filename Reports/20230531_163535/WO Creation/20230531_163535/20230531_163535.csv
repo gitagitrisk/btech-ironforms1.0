@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+WO Creation,Chrome 113.0.0.0,,,2023-05-31 16:35:43,2023-05-31 16:36:46,1m - 2.366s,FAILED
+,,,,,,,
+Test Cases/Login,Chrome 113.0.0.0,,,2023-05-31 16:35:43,2023-05-31 16:36:01,17.154s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-31 16:35:44,2023-05-31 16:35:46,2.561s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-31 16:35:46,2023-05-31 16:35:46,0.146s,PASSED
+"navigateToUrl(""https://service-dev-fe.bukittechnology.com/#/sign-in"")",Chrome 113.0.0.0,,,2023-05-31 16:35:46,2023-05-31 16:35:51,4.301s,PASSED
+"click(findTestObject(""Object Repository/Page_BUMA AUSTRALIA/button_Sign in Microsoft""))",Chrome 113.0.0.0,,,2023-05-31 16:35:51,2023-05-31 16:35:51,0.526s,PASSED
+"switchToWindowTitle(""Sign in to your account"")",Chrome 113.0.0.0,,,2023-05-31 16:35:51,2023-05-31 16:35:53,2.201s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in to your account/input_Sign in_loginfmt""), ""bumaau.tester.supervisor@bukittech.onmicrosoft.com"")",Chrome 113.0.0.0,,,2023-05-31 16:35:53,2023-05-31 16:35:55,1.506s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9""))",Chrome 113.0.0.0,,,2023-05-31 16:35:55,2023-05-31 16:35:55,0.461s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in to your account/input_Enter password_passwd""), ""RrCFvfKds9jTMrd3MNZ02Q=="")",Chrome 113.0.0.0,,,2023-05-31 16:35:55,2023-05-31 16:35:57,1.178s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9""))",Chrome 113.0.0.0,,,2023-05-31 16:35:57,2023-05-31 16:35:57,0.886s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in to your account/input_concat(Don, , t show this again)_idBtn_Back""))",Chrome 113.0.0.0,,,2023-05-31 16:35:57,2023-05-31 16:35:59,1.461s,PASSED
+"switchToWindowTitle(""BUMA AUSTRALIA - Dashboard"")",Chrome 113.0.0.0,,,2023-05-31 16:35:59,2023-05-31 16:36:01,1.677s,PASSED
+,,,,,,,
+Test Cases/Create WO,Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:14,13.183s,FAILED
+now = LocalDateTime.now(),Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:01,0.015s,PASSED
+"formatter = DateTimeFormatter.ofPattern(""yyMMdd"")",Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:01,0.039s,PASSED
+formattedDate = now.format(formatter),Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:01,0.009s,PASSED
+random = new java.util.Random(),Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:01,0.014s,PASSED
+randomNumber1 = random.nextInt(10),Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:01,0.001s,PASSED
+randomNumber2 = random.nextInt(10),Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:01,0.000s,PASSED
+"workOrder = ""99"" + formattedDate + randomNumber1 + randomNumber2",Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:01,0.000s,PASSED
+"click(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Dashboard/a_Enter IronLake""))",Chrome 113.0.0.0,,,2023-05-31 16:36:01,2023-05-31 16:36:02,0.907s,PASSED
+"click(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/span_Task""))",Chrome 113.0.0.0,,,2023-05-31 16:36:02,2023-05-31 16:36:04,1.213s,PASSED
+"click(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/a_Outstanding Service""))",Chrome 113.0.0.0,,,2023-05-31 16:36:04,2023-05-31 16:36:04,0.710s,PASSED
+"click(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/div_Outstanding Service_btn btn-small btn-i_1463e8""))",Chrome 113.0.0.0,,,2023-05-31 16:36:04,2023-05-31 16:36:09,4.569s,PASSED
+"click(findTestObject(""Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/input_Unit Number_el-input__inner""))",Chrome 113.0.0.0,,,2023-05-31 16:36:09,2023-05-31 16:36:10,1.015s,PASSED
+"setText(findTestObject(""Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/input_Unit Number_el-input__inner""), unit_number)",Chrome 113.0.0.0,,,2023-05-31 16:36:10,2023-05-31 16:36:11,0.949s,PASSED
+"click(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/li_DT0053  777D Dump Truck CAT""))",Chrome 113.0.0.0,,,2023-05-31 16:36:11,2023-05-31 16:36:12,1.210s,PASSED
+"setText(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/input_SMU Due (Hours)_el-input__inner""), smu)",Chrome 113.0.0.0,,,2023-05-31 16:36:12,2023-05-31 16:36:13,1.406s,PASSED
+"setText(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Iron Lake - Task - Ou_df1751/input_Work Order_el-input__inner""), work_order)",Chrome 113.0.0.0,,,2023-05-31 16:36:13,2023-05-31 16:36:14,0.392s,FAILED
+,,,,,,,
+Test Cases/Verify WO,Chrome 113.0.0.0,,,2023-05-31 16:36:14,2023-05-31 16:36:46,31.820s,FAILED
+"click(findTestObject(""Object Repository/Page_BUMA AUSTRALIA - Iron Lake/Verify WO/Page_BUMA AUSTRALIA - Dashboard/a_Enter IronLake""))",Chrome 113.0.0.0,,,2023-05-31 16:36:14,2023-05-31 16:36:46,31.375s,FAILED

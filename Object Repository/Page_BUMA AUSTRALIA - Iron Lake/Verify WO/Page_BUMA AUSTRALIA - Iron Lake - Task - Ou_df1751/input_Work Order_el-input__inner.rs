@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Work Order_el-input__inner</name>
+   <tag></tag>
+   <elementGuidId>74d3b036-3d89-4d70-bc4d-783afb71577c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[6]
+
+//*[@id=&quot;kt_content_container&quot;]/div[5]/div/div[2]/div/div[3]/div/div[1]/div/div/div/div/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Type any..']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-input.el-input--suffix.is-focus > input.el-input__inner
+div.el-input.el-input--suffix.is-focus > input.el-input__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>969b8a64-09bf-49ae-b67a-bc54136d9f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-input__inner</value>
+      <webElementGuid>3f0d8a4a-f6db-4697-915b-c110b7cb5f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c73d6a00-ba06-4de5-a77c-c5286b357980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>a579bd4b-7987-4e21-898d-3a70106b4ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Type any..</value>
+      <webElementGuid>1055f8f2-1c11-4d0b-b2b7-08a5794643de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;el-overlay&quot;]/div[@class=&quot;el-dialog&quot;]/div[@class=&quot;el-dialog__body&quot;]/div[@class=&quot;row g-4 my-4&quot;]/div[@class=&quot;w-100 fv-row fv-plugins-icon-container&quot;]/div[@class=&quot;fv-row row&quot;]/div[@class=&quot;el-form-item col&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-select w-100&quot;]/div[@class=&quot;select-trigger&quot;]/div[@class=&quot;el-input el-input--suffix is-focus&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>89779960-b908-4052-b9f8-2645b022c4b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[6]</value>
+      <webElementGuid>b75441c8-6844-4698-a6ea-d44cd37d83b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;kt_content_container&quot;]/div[5]/div/div[2]/div/div[3]/div/div[1]/div/div/div/div/input</value>
+      <webElementGuid>a8a1c7db-b555-4407-831b-4c71501fcbd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[1]/div/div/div/div/input</value>
+      <webElementGuid>cf753361-feb7-42af-96c0-a8ae6ccc0260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Type any..']</value>
+      <webElementGuid>344be356-7fb6-4096-99fd-7d0415619e20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

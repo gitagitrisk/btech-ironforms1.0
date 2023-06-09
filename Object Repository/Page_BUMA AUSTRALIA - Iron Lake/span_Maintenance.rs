@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Maintenance</name>
+   <tag></tag>
+   <elementGuidId>dba3142a-8b65-411d-84bf-cc33255b13c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_header_menu']/div[3]/div/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acb31beb-6cc3-4c1f-80b9-ef7d25f2c9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title sidebar-menu-item</value>
+      <webElementGuid>89431eb3-8b1b-4306-8cce-9e7a75563d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maintenance</value>
+      <webElementGuid>934bb553-74d0-41cb-97a8-a587acf4cdd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu_wrapper&quot;)/div[@id=&quot;#kt_header_menu&quot;]/div[@class=&quot;menu-item&quot;]/div[@class=&quot;menu-item menu-accordion&quot;]/span[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-title sidebar-menu-item&quot;]</value>
+      <webElementGuid>0eb44cd5-0884-4029-bc44-741d9a96267f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_header_menu']/div[3]/div/span/span[2]</value>
+      <webElementGuid>456c8505-f22e-4cf1-9099-56407a5e3a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component Assignment'])[1]/following::span[3]</value>
+      <webElementGuid>362b66f3-71b7-4e96-b1ec-22c3fe271cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment Assignment'])[1]/following::span[6]</value>
+      <webElementGuid>6e6cacb8-f73b-4b0d-8bcc-ed96eb1fcda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance Strategy'])[1]/preceding::span[4]</value>
+      <webElementGuid>9ac04ffb-42a8-4020-a87f-5b108ccc60f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task'])[1]/preceding::span[6]</value>
+      <webElementGuid>bcb8f6b3-c7c0-4d14-b1e4-c94109649a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maintenance']/parent::*</value>
+      <webElementGuid>6623651b-e3d6-46dd-966b-6d10e4549e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span/span[2]</value>
+      <webElementGuid>9d4aed17-002e-46c4-8a24-0188f6bf2f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Maintenance' or . = 'Maintenance')]</value>
+      <webElementGuid>de41321e-0026-49c1-b515-5c455eeb94d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

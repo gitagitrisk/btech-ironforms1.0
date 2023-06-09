@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Outstanding Services_form-control py-_b078f9</name>
+   <tag></tag>
+   <elementGuidId>c3f97d8b-f8c3-4b09-b329-df5d825aaae4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.py-2.border-left-0.border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5db9fab9-ac6d-49e2-b23c-1dabf8602dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control py-2 border-left-0 border</value>
+      <webElementGuid>a1348f00-e7fd-4336-b9ca-6f0144f1bee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>de640c35-9c20-494a-8b59-3c87c527ee20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search here..</value>
+      <webElementGuid>8ff5879b-b8c9-4ace-8725-5cdd4720d33c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container h-100 p-0&quot;]/div[@class=&quot;row mx-0&quot;]/div[3]/div[@class=&quot;el-overlay&quot;]/div[@class=&quot;el-dialog el-dialog--center&quot;]/div[@class=&quot;el-dialog__body&quot;]/div[@class=&quot;row select-search&quot;]/div[@class=&quot;input-group col-md-4&quot;]/div[@class=&quot;option-wrapper m-0&quot;]/div[@class=&quot;w-100 top-0&quot;]/div[@class=&quot;input-group col-md-4&quot;]/input[@class=&quot;form-control py-2 border-left-0 border&quot;]</value>
+      <webElementGuid>6a67c3a9-5c09-4b61-b6df-e9e18bea2357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>60aa0b8c-a6a9-4d04-bb62-179c65a5f5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div[2]/div/div[2]/div/div/div[2]/div/div/input</value>
+      <webElementGuid>0d391fe2-0ea7-4dd3-9f15-e1c30b2fcdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>55da3d06-e078-419e-9b30-0ef5623cf584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search here..']</value>
+      <webElementGuid>fe489f09-7d1e-406f-86be-efb5c689b3b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

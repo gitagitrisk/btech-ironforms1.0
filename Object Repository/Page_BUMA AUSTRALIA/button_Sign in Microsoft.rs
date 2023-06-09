@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign in Microsoft</name>
+   <tag></tag>
+   <elementGuidId>3964527f-623f-4f6d-b7d8-6fe2932912c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-100.btn.btn-lg.text-white.btn-big</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1118a569-5ecf-4562-a809-357a5e320ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>c883e584-6e3e-4ac6-8300-b350f17991bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-100 btn btn-lg text-white btn-big</value>
+      <webElementGuid>baf8d6bb-bd27-4920-b1eb-202ce0bf0698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign in Microsoft </value>
+      <webElementGuid>539a86e1-676b-4739-ab4a-c1a346b46c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container h-100 p-0&quot;]/div[@class=&quot;row mx-0 justify-content-center align-items-center h-100&quot;]/div[@class=&quot;col-10 col-md-5 col-lg-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;shadow-lg p-4 mb-5 bg-white rounded border border-light rounded text-center&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;w-100 justify-content-center&quot;]/button[@class=&quot;w-100 btn btn-lg text-white btn-big&quot;]</value>
+      <webElementGuid>20bfc015-a57d-4ddc-a283-7af300cc0391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>c525d66c-7654-43dd-84e9-2935bd41d204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::button[1]</value>
+      <webElementGuid>2ea26905-439e-473b-9983-1bbbb1c09941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in Microsoft']/parent::*</value>
+      <webElementGuid>c999c375-0b6b-415a-bb88-4c7735872d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>bde68127-95dd-47ce-bbcf-fb1d6c2f1a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '#' and (text() = ' Sign in Microsoft ' or . = ' Sign in Microsoft ')]</value>
+      <webElementGuid>3a69afac-dd86-4c07-9a37-e1c9e573e299</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

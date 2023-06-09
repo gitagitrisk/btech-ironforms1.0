@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Blackwater_dropdown-chevron powervisuals-_9d692d</name>
+   <tag></tag>
+   <elementGuidId>8f4b2046-1bf3-4664-9f63-f635ba949ed4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//exploration-host[@id='pvExplorationHost']/div/div/exploration/div/explore-canvas/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-group/transform/div/div[2]/visual-container-group/transform/div/div[2]/visual-container[2]/transform/div/div[2]/div/visual-modern/div/div/div[2]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.dropdown-chevron.powervisuals-glyph.chevron-up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fe587f37-47fd-4e9c-a7f1-5e4321e7f26f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-chevron powervisuals-glyph chevron-up</value>
+      <webElementGuid>7ea61d3a-aade-42ed-9b5c-f02b55d6f1f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pvExplorationHost&quot;)/div[@class=&quot;fillAvailableSpace verticalItemsContainer&quot;]/div[@class=&quot;horizontalItemsContainer&quot;]/exploration[@class=&quot;exploreCanvasToBottom&quot;]/div[@class=&quot;exploration&quot;]/explore-canvas[@class=&quot;explore-canvas-style&quot;]/div[@class=&quot;exploreCanvas themeableElement disableAnimations stylableVisualContainerHeader master-form-factor&quot;]/div[@class=&quot;canvasFlexBox&quot;]/div[@class=&quot;displayAreaContainer newCanvasScrollbar droppableElement ui-droppable&quot;]/div[@class=&quot;displayArea disableAnimations fitToPage&quot;]/div[@class=&quot;visualContainerHost visualContainerOutOfFocus&quot;]/visual-container-repeat[1]/visual-container-group[1]/transform[@class=&quot;isChildSelected selectThrough&quot;]/div[@class=&quot;visualContainerGroup unselectable isChildSelected hideGroupBorder&quot;]/div[@class=&quot;vcGroupBody themableBackgroundColor themableBorderColorSolid&quot;]/visual-container-group[1]/transform[@class=&quot;isChildSelected selectThrough&quot;]/div[@class=&quot;visualContainerGroup unselectable isChildSelected hideGroupBorder&quot;]/div[@class=&quot;vcGroupBody themableBackgroundColor themableBorderColorSolid&quot;]/visual-container[@class=&quot;visual-container-component&quot;]/transform[@class=&quot;bringToFront&quot;]/div[@class=&quot;visualContainer unselectable readMode hideBorder noVisualTitle visualHeaderBelow droppableElement ui-droppable&quot;]/div[@class=&quot;visualContent&quot;]/div[@class=&quot;vcBody themableBackgroundColor themableBorderColorSolid sub-selectable&quot;]/visual-modern[1]/div[@class=&quot;visual visual-slicer customPadding allow-deferred-rendering&quot;]/div[@class=&quot;slicer-container focused&quot;]/div[@class=&quot;slicer-content-wrapper&quot;]/div[@class=&quot;slicer-dropdown-menu&quot;]/i[@class=&quot;dropdown-chevron powervisuals-glyph chevron-up&quot;]</value>
+      <webElementGuid>02513ac0-56b0-4b7d-a4fa-ebc82d758e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BUMA AUSTRALIA - Iron Portal - BUMA Level/iframe</value>
+      <webElementGuid>a19f00a9-264b-41e9-a6f3-9837d3e53589</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//exploration-host[@id='pvExplorationHost']/div/div/exploration/div/explore-canvas/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container-group/transform/div/div[2]/visual-container-group/transform/div/div[2]/visual-container[2]/transform/div/div[2]/div/visual-modern/div/div/div[2]/div/i</value>
+      <webElementGuid>64e5bd38-3ee1-44ea-9b1d-7f97ad26d30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>3a41e583-abeb-4535-aae2-2364330bc345</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

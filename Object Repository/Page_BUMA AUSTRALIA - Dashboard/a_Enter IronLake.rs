@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Enter IronLake</name>
+   <tag></tag>
+   <elementGuidId>def6bb57-9984-4185-aab6-ef036f2ea004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[2]/div/div/div[3]/a/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-go-to-apps.btn-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ed4ac55-71a7-4742-8fbe-2b691ead27f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>02b34c93-8762-4cb4-b795-c21fb8b30feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-go-to-apps btn-label</value>
+      <webElementGuid>742803c9-046a-41b4-9f3c-0976549e86a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter IronLake</value>
+      <webElementGuid>1646087c-7ca5-43dc-a6dd-399ef6080a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;row gy-5 g-xl-8 m-2 h-250px&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-3 col-lg-20-percent col-xl-2 pe-2 col-xxl-2 ps-0&quot;]/div[@class=&quot;card h-100&quot;]/div[@class=&quot;card-footer&quot;]/a[1]/a[@class=&quot;btn btn-sm btn-go-to-apps btn-label&quot;]</value>
+      <webElementGuid>e530ebe7-ad18-4ab5-b0b7-b6cb41b54e9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[2]/div/div/div[3]/a/a</value>
+      <webElementGuid>d11d2eb1-6a50-4cc1-a38d-5e8b797de360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Enter IronLake')]</value>
+      <webElementGuid>fd8c5c56-35aa-4589-9d36-469741d93ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome Ben Neill!'])[1]/following::a[2]</value>
+      <webElementGuid>8cffba2d-9afc-46b9-b5e0-afa3d6f49799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[3]</value>
+      <webElementGuid>7914fd48-dbb3-4490-9b94-4b711e10e7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Technology Platform that provides critical component condition information.'])[1]/preceding::a[1]</value>
+      <webElementGuid>0070fc24-1beb-4101-beb2-bd72ff3962c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter IronPortal'])[1]/preceding::a[1]</value>
+      <webElementGuid>aaf429c4-0c1a-44e5-90da-09856783d6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter IronLake']/parent::*</value>
+      <webElementGuid>9e62a952-5c4f-4356-9245-db0223472482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[5]</value>
+      <webElementGuid>21936531-2a3e-49e7-80a3-d77e97ec0cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/a</value>
+      <webElementGuid>065d7c52-876f-427e-8a5d-137b58fe3f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Enter IronLake' or . = 'Enter IronLake')]</value>
+      <webElementGuid>4a9c1af7-1917-4504-a3f1-4a06890d23ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

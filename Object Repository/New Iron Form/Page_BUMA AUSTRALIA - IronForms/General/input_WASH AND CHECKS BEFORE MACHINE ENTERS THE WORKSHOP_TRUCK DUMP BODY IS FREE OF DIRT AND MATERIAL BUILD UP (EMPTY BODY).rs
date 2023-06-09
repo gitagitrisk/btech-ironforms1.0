@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_WASH AND CHECKS BEFORE MACHINE ENTERS THE WORKSHOP_TRUCK DUMP BODY IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)</name>
+   <tag></tag>
+   <elementGuidId>c25ee5d7-bea8-46ee-9b58-d47184175af0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='TRUCK DUMP BODY IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'checkbox' and @id = 'TRUCK DUMP BODY IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5bc644ed-4dfa-4eba-b720-5508777bba79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-input</value>
+      <webElementGuid>c01a8f84-d74c-42d3-b28d-333519318474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>42a6bc35-5c1a-457a-977d-499cad5b3b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TRUCK DUMP BODY IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)</value>
+      <webElementGuid>1b75aada-df2c-4d7c-90df-a90e8381455a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TRUCK DUMP BODY IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)&quot;)</value>
+      <webElementGuid>85cd5a9e-1591-4170-bd67-72517c514b74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='TRUCK DUMP BODY IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)']</value>
+      <webElementGuid>80449acf-e8a7-4710-b8c9-c1c8bf3cafb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-463']/div/div/div/div/input</value>
+      <webElementGuid>e224854d-f715-4ef0-86d0-eee00dcfcb9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/input</value>
+      <webElementGuid>ca57eeaa-7d44-42f5-83a1-5b282dabe7df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'TRUCK DUMP BODY IS FREE OF DIRT AND MATERIAL BUILD UP (EMPTY BODY)']</value>
+      <webElementGuid>35840184-f341-4163-ad64-53e70c7b4a38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

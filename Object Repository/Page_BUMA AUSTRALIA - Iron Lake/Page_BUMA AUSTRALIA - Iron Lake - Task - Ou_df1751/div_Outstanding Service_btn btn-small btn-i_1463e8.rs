@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Outstanding Service_btn btn-small btn-i_1463e8</name>
+   <tag></tag>
+   <elementGuidId>a0862b79-f026-4a0f-ba37-673486b2b91c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8dad4bc5-7711-424f-af50-9915ece28b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-small btn-icon duotune-icon px-2 my-5 box-item</value>
+      <webElementGuid>e05ffe62-7853-4794-abe6-551a88e5eabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>af67fce3-3fb5-41e8-87f5-666abfe67145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>el-popper-739</value>
+      <webElementGuid>40365859-daf9-4324-9e57-36048b786706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;grid-icon-buttons d-flex justify-content-between flex-wrap align-items-center&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;btn btn-small btn-icon duotune-icon px-2 my-5 box-item&quot;]</value>
+      <webElementGuid>a919a3d9-1176-4002-81ac-f95abcaa2156</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div/div[2]/div[2]</value>
+      <webElementGuid>1eb57c8f-6a80-40b0-8ed1-9bfce2017f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Service'])[3]/following::div[7]</value>
+      <webElementGuid>34133549-843d-423a-b928-7fda13a6064a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Service'])[2]/following::div[9]</value>
+      <webElementGuid>14d29713-9bae-490c-b929-34cc8a06ae94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[16]</value>
+      <webElementGuid>4efbdde1-e7a0-4c2f-b5b4-f840305b24ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Number'])[1]/preceding::div[17]</value>
+      <webElementGuid>24001230-6efc-44ae-8a1c-63a62aae350c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>61d31d67-cb7d-4153-981d-7b40844c3f7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

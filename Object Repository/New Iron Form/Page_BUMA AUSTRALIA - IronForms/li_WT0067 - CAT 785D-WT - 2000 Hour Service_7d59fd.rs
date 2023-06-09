@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_WT0067 - CAT 785D-WT - 2000 Hour Service_7d59fd</name>
+   <tag></tag>
+   <elementGuidId>ce12b0ab-3c4a-44f7-bd7f-3bc48f3d7b3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[3]/div[2]/div/div[2]/div/div/div[2]/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ce4bb6c2-b1f2-409e-91e5-5229270bbc91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b60bb3d4-c1cb-456c-ab31-3956b0e05ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WT0067 - CAT 785D-WT - 2000 Hour Service - 3005785200</value>
+      <webElementGuid>8ca5dadc-a118-428e-aea7-d2e0c03b4c0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div[2]/div/div[2]/div/div/div[2]/ul/li[4]</value>
+      <webElementGuid>346ffc8f-0287-4754-ac45-9538ada551f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DT0700 - KOM 930E-4 HPI - 2000 Hour Service - 9915793001'])[1]/following::li[1]</value>
+      <webElementGuid>69437ed4-1bf0-49f2-8608-33bf27c4426f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DT0700 - KOM 930E-4 HPI - 4000 Hour Service - 9917119302'])[1]/following::li[2]</value>
+      <webElementGuid>c394bce4-497a-462a-88eb-4578e7003421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BU0189 - MB Bus - 1000 Hour Service - 1'])[1]/preceding::li[1]</value>
+      <webElementGuid>fa7821d0-a1dd-4b8f-a7fd-44734c8fd286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DT0376 - CAT 789C - 2000 Hour Service - 9999999879'])[1]/preceding::li[2]</value>
+      <webElementGuid>8c61ffa2-d070-44a6-8119-9f1c93e11c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WT0067 - CAT 785D-WT - 2000 Hour Service - 3005785200']/parent::*</value>
+      <webElementGuid>773a17cc-1270-4957-b3a7-76b7ab7fbecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>7e9c55fe-4b2e-4524-adde-a894cc21105e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'WT0067 - CAT 785D-WT - 2000 Hour Service - 3005785200' or . = 'WT0067 - CAT 785D-WT - 2000 Hour Service - 3005785200')]</value>
+      <webElementGuid>1ae471cb-4a15-475e-b54b-00c482f395aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

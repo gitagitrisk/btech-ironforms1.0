@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Take a Photo</name>
+   <tag></tag>
+   <elementGuidId>57d6596b-e80a-4a0a-9253-8431bfa37d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.el-button.el-button--success.button-OK-confirmation</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>102c9939-c9ae-435b-8518-16123c99c795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-button el-button--success button-OK-confirmation</value>
+      <webElementGuid>63b339f0-5a08-44f7-a71a-49cbcc121ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>515fe94d-328e-47f4-89e7-609a01aff6e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Take a Photo</value>
+      <webElementGuid>5f08b146-7f98-4e9b-948f-a0255a9e6f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_body&quot;)/div[@class=&quot;el-overlay&quot;]/div[@class=&quot;el-dialog el-dialog--center confirmation&quot;]/div[@class=&quot;el-dialog__footer&quot;]/span[@class=&quot;dialog-footer&quot;]/button[@class=&quot;el-button el-button--success button-OK-confirmation&quot;]</value>
+      <webElementGuid>72eccb64-2225-42d1-a5c9-958aafe35bfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>927012f4-6f01-4d30-94b2-0b3ce82f65d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='kt_body']/div[4]/div/div[3]/span/button[2]</value>
+      <webElementGuid>df7072be-6ea8-4b1c-9fb5-b7797e311ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Take a photo of your completed pre-task risk assessment.'])[1]/following::button[2]</value>
+      <webElementGuid>198d4555-e3be-4e1a-ac11-5d2c5e988ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>70b4f44e-e45e-4b23-896a-3f122731d597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Take a Photo' or . = 'Take a Photo')]</value>
+      <webElementGuid>46c5ac55-6857-413a-b5a3-e8f9145cde86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

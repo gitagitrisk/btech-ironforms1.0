@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_DT0053  777D Dump Truck CAT</name>
+   <tag></tag>
+   <elementGuidId>eddf114c-bcf9-48e0-8782-ae9589841cb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-popper-1509']/div/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'DT0053 | 777D Dump Truck CAT' or . = 'DT0053 | 777D Dump Truck CAT')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.el-select-dropdown__item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a0bdcf99-f607-4e63-82ee-af6b212170cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select-dropdown__item</value>
+      <webElementGuid>bce27c04-a36a-48a8-9b70-18a68cd07652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DT0053 | 777D Dump Truck CAT</value>
+      <webElementGuid>c738f965-f245-4462-99fc-c290d5590c33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-popper-1509']/div/div/div/ul/li</value>
+      <webElementGuid>39f40079-8367-41dc-907b-1fbacf6bda90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[1]/preceding::li[1]</value>
+      <webElementGuid>8f751741-6f7c-4014-bf1e-5449a8210d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/ul/li</value>
+      <webElementGuid>1d7394ce-c675-41a1-8685-7c309e807c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'DT0053 | 777D Dump Truck CAT' or . = 'DT0053 | 777D Dump Truck CAT')]</value>
+      <webElementGuid>b621e85c-8715-4292-a7e6-e0cdcfce5418</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

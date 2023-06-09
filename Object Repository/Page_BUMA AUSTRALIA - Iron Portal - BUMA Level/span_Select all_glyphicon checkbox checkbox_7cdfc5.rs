@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select all_glyphicon checkbox checkbox_7cdfc5</name>
+   <tag></tag>
+   <elementGuidId>14573342-b2e9-47bb-a44e-0df610a1a1fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slicer-dropdown-popup-fd7e1670-92d4-a4cb-ae1e-8dcef055c3ae']/div/div/div[2]/div/div/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0c1d4e7-8cdd-459c-9379-fca78dba6ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon checkbox checkboxOutlineContrast</value>
+      <webElementGuid>951d4999-5d2a-4fc0-ac28-e1dd8ce48d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slicer-dropdown-popup-fd7e1670-92d4-a4cb-ae1e-8dcef055c3ae&quot;)/div[@class=&quot;slicer-dropdown-content&quot;]/div[@class=&quot;slicerContainer isMultiSelectEnabled&quot;]/div[@class=&quot;slicerBody&quot;]/div[@class=&quot;scroll-wrapper scrollbar-inner&quot;]/div[@class=&quot;scrollbar-inner scroll-content&quot;]/div[@class=&quot;scrollRegion&quot;]/div[@class=&quot;visibleGroup&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;slicerItemContainer&quot;]/div[@class=&quot;slicerCheckbox&quot;]/span[@class=&quot;glyphicon checkbox checkboxOutlineContrast&quot;]</value>
+      <webElementGuid>e6caa7b9-45a9-404d-8f04-c46121c69456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BUMA AUSTRALIA - Iron Portal - BUMA Level/iframe</value>
+      <webElementGuid>d85d368f-c3c9-4268-86b2-a3457278ff19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slicer-dropdown-popup-fd7e1670-92d4-a4cb-ae1e-8dcef055c3ae']/div/div/div[2]/div/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>a12861de-6285-4ff0-b8e8-5888bb0e1e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>9b070601-32f4-408a-9ed7-fc4a1510e396</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

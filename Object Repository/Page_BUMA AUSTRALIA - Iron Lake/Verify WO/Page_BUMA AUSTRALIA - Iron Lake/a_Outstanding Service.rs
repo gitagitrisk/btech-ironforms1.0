@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Outstanding Service</name>
+   <tag></tag>
+   <elementGuidId>3f2adf91-c652-412e-a6a1-c14fe6082fdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_header_menu']/div[4]/div/div/div/a/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-sub.menu-sub-accordion.show > div.menu-item > a > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9fdd4a23-5349-4187-a4d1-7d729be2f518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>5a5db4cd-8cc4-4a53-9dfe-a981f8deba54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>3cc04b68-68c3-4059-973a-a6e95258a320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outstanding Service</value>
+      <webElementGuid>d2155a47-49a1-4460-ab99-a4ee503e652c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu_wrapper&quot;)/div[@id=&quot;#kt_header_menu&quot;]/div[@class=&quot;menu-item&quot;]/div[@class=&quot;menu-item menu-accordion hover show&quot;]/div[@class=&quot;menu-sub menu-sub-accordion show&quot;]/div[@class=&quot;menu-item&quot;]/a[1]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>8a7dec25-edbb-4b74-91b1-3953d8048ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_header_menu']/div[4]/div/div/div/a/a</value>
+      <webElementGuid>8de47947-22fb-4589-bf13-9af419ea1c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task'])[1]/following::a[2]</value>
+      <webElementGuid>d2d092a9-1660-4286-943d-3b99c0a3568b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance Strategy'])[1]/following::a[2]</value>
+      <webElementGuid>62a400c5-0ece-43c0-a4f3-603d37dbc22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameter'])[1]/preceding::a[1]</value>
+      <webElementGuid>9cf0a5b4-1f32-456a-81ba-19ae92f405eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[16]</value>
+      <webElementGuid>62d11466-d7ef-455d-8295-481e41b6b617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/a/a</value>
+      <webElementGuid>f95e78fe-0f54-40f1-8564-92d77c381b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Outstanding Service' or . = 'Outstanding Service')]</value>
+      <webElementGuid>d502159c-31a8-491d-ae45-0aadeb503b08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

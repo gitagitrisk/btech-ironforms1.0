@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_WASH BATTERY BOX_CHECK MACHINE TYRES (TEMPERATURECONDITION) BEFORE ENTERING WORKSHOP</name>
+   <tag></tag>
+   <elementGuidId>c0299ace-df9c-460f-b30b-db150e5f1d7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOP']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'checkbox' and @id = 'CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOP']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0433db23-10eb-472c-99c1-dad0473e8ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-input</value>
+      <webElementGuid>a18640ad-e8bd-43ec-95f0-d70d80c346be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>df054373-ffa5-493d-85a1-2c4824854aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOP</value>
+      <webElementGuid>53c4db06-5054-4375-af8b-ba17d4be7372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOP&quot;)</value>
+      <webElementGuid>576b3d2e-8968-4c58-9980-4dc48fc51f59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOP']</value>
+      <webElementGuid>c68e53cb-56ea-4728-8025-9bdb88f3043d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-6651']/div/div[5]/div/div/input</value>
+      <webElementGuid>159af66f-09c5-4504-9ce7-3d6041c7b293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/input</value>
+      <webElementGuid>a617947d-b0fd-43d5-ab2a-89168defcab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'CHECK MACHINE TYRES (TEMPERATURE/CONDITION) BEFORE ENTERING WORKSHOP']</value>
+      <webElementGuid>6bd2173b-f801-47da-9b01-7eacfc515e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-2928']/div/div[5]/div/div/input</value>
+      <webElementGuid>b45dd9ba-b47a-4642-999f-39969913c176</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

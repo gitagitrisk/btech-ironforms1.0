@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Labour Personnel Name_form-control bo_aa2426</name>
+   <tag></tag>
+   <elementGuidId>3f52cc60-5fd6-4a75-b3de-4c29cbdcf1c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.border-right-0.border.form-floating</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1f0e6f3f-6cdd-4880-a530-1861e43e4440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control border-right-0 border form-floating</value>
+      <webElementGuid>8a77a8c4-537b-438d-9dba-283e01052653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ed8af434-b620-4eba-8653-9ae144b4f969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-collapse-content-3766&quot;)/div[@class=&quot;el-collapse-item__content&quot;]/div[@class=&quot;p-2 me-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 pe-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;input-group col-md-4&quot;]/div[@class=&quot;form-floating flex-fill&quot;]/input[@class=&quot;form-control border-right-0 border form-floating&quot;]</value>
+      <webElementGuid>ecef327b-39f9-4a7f-8d83-1abd2a7c8a04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>ee1f3b3a-86b3-47a1-ad20-d8a39e4b3539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-3766']/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>d92bc449-b45c-4778-84bc-c4a9dbfb84f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>58496a73-e4fe-4e69-8c91-a9c4d12b0ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>a70e0a00-e994-4b61-8ae2-d8285ccee2c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

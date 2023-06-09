@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Tom Woodward</name>
+   <tag></tag>
+   <elementGuidId>41eefd78-382a-4a87-9283-3cfc1f8c4213</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-collapse-content-9038']/div/div/div/div/div/div/div[2]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Tom Woodward' or . = 'Tom Woodward')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f87054fc-4517-45c5-9d62-3a1e8cc329f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>99d12e72-d66a-4287-9330-896071131385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tom Woodward</value>
+      <webElementGuid>38853bd6-f166-4b1a-80f4-ba9f378e827e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-9038']/div/div/div/div/div/div/div[2]/ul/li[2]</value>
+      <webElementGuid>8bfa3bfd-dd23-414d-bf43-77195fe72e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jamie Brady'])[1]/following::li[1]</value>
+      <webElementGuid>63168e0a-e7fc-442c-9b1b-20c696c91d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Labour Personnel Name'])[1]/following::li[2]</value>
+      <webElementGuid>99d75729-54d9-4d08-bcad-9edd0409880e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual Service Start (each labour personnel)'])[1]/preceding::li[1]</value>
+      <webElementGuid>668e6943-69fb-4812-a714-29a3b63bb07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shift'])[1]/preceding::li[1]</value>
+      <webElementGuid>05016057-a48e-4426-b54b-fddc5174c60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tom Woodward']/parent::*</value>
+      <webElementGuid>7eba2adc-ec6b-477c-9c4c-5f12b0fcb46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>9d8ae827-36ab-44ff-bc2e-9b4f7abfac76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Tom Woodward' or . = 'Tom Woodward')]</value>
+      <webElementGuid>eba75517-bff7-4f64-8078-b78f70f6dedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-4755']/div/div/div/div/div/div/div[2]/ul/li[2]</value>
+      <webElementGuid>2fe387e3-6c12-46c5-8770-c35426ff7981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-3766']/div/div/div/div/div/div/div[2]/ul/li</value>
+      <webElementGuid>ef40b0e4-7983-4aa9-850c-e186d5b4ed74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Labour Personnel Name'])[1]/following::li[1]</value>
+      <webElementGuid>81069708-bcbf-4079-a269-ef704d39ac4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Labour Personnel'])[1]/following::li[1]</value>
+      <webElementGuid>754c1d2b-5e3b-44df-8c4b-e3995fda9414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>737a4c4e-0eb2-47dd-9d79-5b70c7463058</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

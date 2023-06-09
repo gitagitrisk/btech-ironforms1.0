@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Work Order_el-select__caret el-input__ico_d8b895</name>
+   <tag></tag>
+   <elementGuidId>1702c8c0-52dc-49b3-909e-aa5886841972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content_container']/div[5]/div/div[2]/div/div[3]/div/div/div/div/div/div/span/span/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.el-select__caret.el-input__icon.el-icon-circle-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bc76f514-ef84-4981-b8c0-c5b6ea820ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select__caret el-input__icon el-icon-circle-close</value>
+      <webElementGuid>fd639fed-c740-425d-8f95-25c969c0e2b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content_container&quot;)/div[@class=&quot;el-overlay&quot;]/div[@class=&quot;el-dialog&quot;]/div[@class=&quot;el-dialog__body&quot;]/div[@class=&quot;row g-4 my-4&quot;]/div[@class=&quot;w-100 fv-row fv-plugins-icon-container&quot;]/div[@class=&quot;fv-row row&quot;]/div[@class=&quot;el-form-item col&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-select w-100&quot;]/div[@class=&quot;select-trigger&quot;]/div[@class=&quot;el-input el-input--suffix is-focus&quot;]/span[@class=&quot;el-input__suffix&quot;]/span[@class=&quot;el-input__suffix-inner&quot;]/i[@class=&quot;el-select__caret el-input__icon el-icon-circle-close&quot;]</value>
+      <webElementGuid>fb1f3c65-4dd6-4b08-bf43-1ddbb7051164</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content_container']/div[5]/div/div[2]/div/div[3]/div/div/div/div/div/div/span/span/i[2]</value>
+      <webElementGuid>31ec735a-6345-4d10-915b-61ffbf1f29b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/i[2]</value>
+      <webElementGuid>17195f30-bb8a-41e9-86ea-0178d9d3e871</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
